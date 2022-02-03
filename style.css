@@ -1,0 +1,25 @@
+/* table{
+    width:100%;
+    border-collapse: collapse;
+    border: 2px solid aqua;
+    border-radius: 5px;
+} */
+
+table{
+    width:100%;
+    border-radius: 5px;
+    border: 2px solid aqua;
+    border-collapse: collapse;
+
+}
+
+ th, td {
+    border:1px solid black;
+    text-align: center;
+    padding: 5px 0;
+  }
+
+  h1{
+      text-align: center;
+      color:rgb(255, 13, 13)
+  }
